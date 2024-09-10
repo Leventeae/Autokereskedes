@@ -1,0 +1,7 @@
+C:\Users\User\Documents\C#\Bead3_JW9VQW\Bead3_JW9VQW\bin\Debug\Bead3_JW9VQW.exe.config
+C:\Users\User\Documents\C#\Bead3_JW9VQW\Bead3_JW9VQW\bin\Debug\Bead3_JW9VQW.exe
+C:\Users\User\Documents\C#\Bead3_JW9VQW\Bead3_JW9VQW\bin\Debug\Bead3_JW9VQW.pdb
+C:\Users\User\Documents\C#\Bead3_JW9VQW\Bead3_JW9VQW\obj\Debug\Bead3_JW9VQW.csproj.AssemblyReference.cache
+C:\Users\User\Documents\C#\Bead3_JW9VQW\Bead3_JW9VQW\obj\Debug\Bead3_JW9VQW.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#\Bead3_JW9VQW\Bead3_JW9VQW\obj\Debug\Bead3_JW9VQW.exe
+C:\Users\User\Documents\C#\Bead3_JW9VQW\Bead3_JW9VQW\obj\Debug\Bead3_JW9VQW.pdb
